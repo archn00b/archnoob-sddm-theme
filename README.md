@@ -1,1 +1,1 @@
-# simplicity sddm theme
+# archnoob sddm theme
